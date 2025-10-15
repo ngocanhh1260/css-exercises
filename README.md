@@ -37,7 +37,7 @@ If you have suggestions to improve an exercise, ideas for a new exercise, or not
 
 ---
 
-## 🌟 Additional Contribution ( Đóng góp của em )
+## 🌟 Additional Contribution 
 
 As part of my open-source learning journey, I forked this repository to explore and better understand CSS through real-world exercises.  
 This contribution adds learning tips, resources, and notes that can help new learners study CSS more effectively.
